@@ -1,0 +1,19 @@
+{
+  "name": "addicts_data",
+  "version": "1.0.0",
+  "description": "PvM Addicts data lookup module for RSChatAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pyragon/addicts_data.git"
+  },
+  "author": "Pyragon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pyragon/addicts_data/issues"
+  },
+  "homepage": "https://github.com/Pyragon/addicts_data#readme"
+}
