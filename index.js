@@ -57,6 +57,7 @@ var lookup = () => {
                         }
                     }
                     if (callback) callback();
+                    next_check = new Date().getTime() + 30000;
                 } else {
                     console.log('No upcoming events found.');
                 }
