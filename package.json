@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Pyragon/addicts_data/issues"
   },
-  "homepage": "https://github.com/Pyragon/addicts_data#readme"
+  "homepage": "https://github.com/Pyragon/addicts_data#readme",
+  "dependencies": {
+    "googleapis": "^27.0.0"
+  }
 }
